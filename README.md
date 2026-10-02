@@ -1,3 +1,19 @@
+# Mario: Phaser Platformer
+
+A Super Mario-style 2-D platformer built with Phaser 3, React and Electron. It has arcade
+physics, keyboard and touch controls, bombs, a pause menu and high scores, and it runs as
+a desktop app or in the browser.
+
+> **This is a fork of [YeonV/mario](https://github.com/YeonV/mario)**, whose author wrote most
+> of the game. My contribution was the player sprite set (adding and replacing player
+> characters). See the commit history for details. My own React + Phaser platformer
+> prototype is [mario-react](https://github.com/Deadly-Phantom/mario-react).
+
+---
+
+*The rest of this README is the [Vitron](https://github.com/YeonV/vitron) scaffold
+documentation that the project was generated from.*
+
 # Vitron | SuperCharged Starter
 
 [![docs](https://img.shields.io/badge/React-Vite-blue.svg?logo=Vite&logoColor=white&label=)](https://www.electronjs.org/)
